@@ -10,3 +10,7 @@ def minimal(*args):
 def maximal(*args):
   fn_maximal = max(*args)
   return fn_maximal
+
+def step(main, step):
+  fn_step = pow(main, step)
+  return fn_step
