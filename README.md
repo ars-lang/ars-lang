@@ -7,4 +7,4 @@ In Unix systems:<br>
 .ars - file extension<br>
 main - file name<br>
 <br>
-http://github.com/emailsend/ArsLanguage/wiki
+http://github.com/ars-lang/ars-lang/wiki
